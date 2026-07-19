@@ -131,7 +131,42 @@
     "category": "Truck",
     "creator": "mrmod",
     "size": "47.5 MB",
-    "imageUrl": "https://cdn.bussidseratusmilyar.com/images/6a5c5048d659c_1784434760.jpg",
+    "imageUrl": "https://i.pinimg.com/736x/3d/0b/bb/3d0bbb587cd4d9360b151867fb8ac31b.jpg",
     "downloadUrl": "https://cdn.bussidseratusmilyar.com/mods/6a5c504923b7e_1784434761.bussidmod"
+  },
+  {
+    "id": "truk",
+    "name": "Wahyu Abadi Terpal Hitam Putih",
+    "category": "Truck",
+    "creator": "mrmod",
+    "size": "47.5 MB",
+    "imageUrl": "https://i.pinimg.com/736x/05/f9/67/05f967c3b8c795b30a1d73b10da853e6.jpg",
+    "downloadUrl": "https://cdn.bussidseratusmilyar.com/mods/6a5c504923b7e_1784434761.bussidmod"
+  },
+  {
+    "id": "truk",
+    "name": "Wahyu Abadi Terpal Biru Putih",
+    "category": "Truck",
+    "creator": "mrmod",
+    "size": "47.5 MB",
+    "imageUrl": "https://i.pinimg.com/736x/79/66/18/796618b09c15f4820e3737189b43dffc.jpg",
+    "downloadUrl": "https://cdn.bussidseratusmilyar.com/mods/6a5c504923b7e_1784434761.bussidmod"
+  },
+  {
+    "id": "truck_canter_chili",
+    "name": "Truck Canter cabe Full Anim",
+    "category": "Truck",
+    "creator": "Adler Studio",
+    "size": "18.2 MB",
+    "imageUrl": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=600&auto=format&fit=crop",
+    "downloadUrl": "https://raw.githubusercontent.com/adlerstudio/bussid-mods/main/vehicles/canter_cabe.bussidmod",
+    "liveries": [
+      {
+        "name": "Sekar Taro Chili",
+        "url": "https://raw.githubusercontent.com/adlerstudio/bussid-mods/main/liveries/canter_sekar_taro.png",
+        "imageUrl": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=600&auto=format&fit=crop",
+        "size": "2.8 MB"
+      }
+    ]
   }
 ]
