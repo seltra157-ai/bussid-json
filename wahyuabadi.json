@@ -175,5 +175,39 @@
         "size": "1.8 MB"
       }
     ]
+  },
+  {
+    "id": "truk",
+    "name": "Wahyu Abadi Full Sticker Madura",
+    "category": "Truck",
+    "creator": "mrmod",
+    "size": "67.5 MB",
+    "imageUrl": "https://i.pinimg.com/736x/5c/9f/5f/5c9f5ffdb0bc618dee6be7ad9d7655e8.jpg",
+    "downloadUrl": "https://cdn.bussidseratusmilyar.com/mods/6a5c504923b7e_1784434761.bussidmod",
+    "liveries": [
+      {
+        "name": "Livery",
+        "url": "https://cdn.bussidseratusmilyar.com/images/6a5c692e4d4a1_1784441134.png",
+        "imageUrl": "https://i.pinimg.com/736x/5c/9f/5f/5c9f5ffdb0bc618dee6be7ad9d7655e8.jpg",
+        "size": "1.5 MB"
+      }
+    ]
+  },
+  {
+    "id": "truk",
+    "name": "Wahyu Abadi Sticker Terpal Hitam",
+    "category": "Truck",
+    "creator": "mrmod",
+    "size": "57.5 MB",
+    "imageUrl": "https://i.pinimg.com/736x/7f/20/5f/7f205f678ecb90ff78996cdf711a2de4.jpg",
+    "downloadUrl": "https://cdn.bussidseratusmilyar.com/mods/6a5c659190cd1_1784440209.bussidmod",
+    "liveries": [
+      {
+        "name": "Livery",
+        "url": "https://cdn.bussidseratusmilyar.com/images/6a5c67be05a8e_1784440766.png",
+        "imageUrl": "hhttps://i.pinimg.com/736x/7f/20/5f/7f205f678ecb90ff78996cdf711a2de4.jpg",
+        "size": "1.9 MB"
+      }
+    ]
   }
 ]
