@@ -209,5 +209,73 @@
         "size": "1.4 MB"
       }
     ]
+  },
+  {
+    "id": "truk",
+    "name": "Wahyu Abadi sadesign Terpal Kotak",
+    "category": "Truck",
+    "creator": "sadesign",
+    "size": "57.5 MB",
+    "imageUrl": "https://cdn.bussidseratusmilyar.com/images/6a5c78f91b039_1784445177.jpg",
+    "downloadUrl": "https://cdn.bussidseratusmilyar.com/mods/6a5c78ab08973_1784445099.bussidmod",
+    "liveries": [
+      {
+        "name": "Livery",
+        "url": "https://cdn.bussidseratusmilyar.com/images/6a5c78f971b31_1784445177.png",
+        "imageUrl": "https://cdn.bussidseratusmilyar.com/images/6a5c78f91b039_1784445177.jpg",
+        "size": "1.4 MB"
+      }
+    ]
+  },
+  {
+    "id": "truk",
+    "name": "Wahyu Abadi sadesign terpal segitiga",
+    "category": "Truck",
+    "creator": "sadesign",
+    "size": "57.5 MB",
+    "imageUrl": "https://cdn.bussidseratusmilyar.com/images/6a5c793e90b78_1784445246.jpg",
+    "downloadUrl": "https://cdn.bussidseratusmilyar.com/mods/6a5c78ab08973_1784445099.bussidmod",
+    "liveries": [
+      {
+        "name": "Livery",
+        "url": "https://cdn.bussidseratusmilyar.com/images/6a5c793f0f95d_1784445247.png",
+        "imageUrl": "https://cdn.bussidseratusmilyar.com/images/6a5c793e90b78_1784445246.jpg",
+        "size": "1.4 MB"
+      }
+    ]
+  },
+  {
+    "id": "truk",
+    "name": "Wahyu Abadi Dhe Adi",
+    "category": "Truck",
+    "creator": "dhe adi",
+    "size": "57.5 MB",
+    "imageUrl": "https://cdn.bussidseratusmilyar.com/images/6a5c796852d78_1784445288.jpg",
+    "downloadUrl": "https://cdn.bussidseratusmilyar.com/mods/6a5c78ab08973_1784445099.bussidmod",
+    "liveries": [
+      {
+        "name": "Livery",
+        "url": "https://cdn.bussidseratusmilyar.com/images/6a5c7968b7fae_1784445288.png",
+        "imageUrl": "https://cdn.bussidseratusmilyar.com/images/6a5c796852d78_1784445288.jpg",
+        "size": "1.4 MB"
+      }
+    ]
+  },
+  {
+    "id": "truk",
+    "name": "Wahyu Abadi sadesign merah kuning",
+    "category": "Truck",
+    "creator": "mrmod",
+    "size": "57.5 MB",
+    "imageUrl": "https://cdn.bussidseratusmilyar.com/images/6a5c798e42f05_1784445326.jpg",
+    "downloadUrl": "https://cdn.bussidseratusmilyar.com/mods/6a5c78ab08973_1784445099.bussidmod",
+    "liveries": [
+      {
+        "name": "Livery",
+        "url": "https://cdn.bussidseratusmilyar.com/images/6a5c798e990be_1784445326.png",
+        "imageUrl": "https://cdn.bussidseratusmilyar.com/images/6a5c798e42f05_1784445326.jpg",
+        "size": "1.4 MB"
+      }
+    ]
   }
 ]
