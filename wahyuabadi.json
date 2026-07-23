@@ -448,5 +448,50 @@
     "size": "1.5 MB",
     "imageUrl": "https://i.pinimg.com/736x/93/2f/0e/932f0e7008e8bf5d56be761d2c3b6d70.jpg",
     "downloadUrl": "https://cdn.bussidseratusmilyar.com/images/6a5379f5d99db_1783855605.png"
+  },
+  {
+    "id": "motor",
+    "name": "Motor r25 New",
+    "category": "Motor",
+    "creator": "Azumod",
+    "size": "34.6 MB",
+    "imageUrl": "https://cdn.bussidseratusmilyar.com/images/6a4551a9ee005_1782927785.jpg",
+    "downloadUrl": "https://cdn.bussidseratusmilyar.com/mods/6a4551aa5050a_1782927786.bussidmod"
+  },
+  {
+    "id": "motor",
+    "name": "Aerox 155",
+    "category": "Motor",
+    "creator": "Azumod",
+    "size": "34.6 MB",
+    "imageUrl": "https://cdn.bussidseratusmilyar.com/images/6a45c21d34314_1782956573.jpg",
+    "downloadUrl": "https://cdn.bussidseratusmilyar.com/mods/6a45c21d9c31e_1782956573.bussidmod"
+  },
+  {
+    "id": "motor",
+    "name": "Aerox Kuning",
+    "category": "Motor",
+    "creator": "Azumod",
+    "size": "34.6 MB",
+    "imageUrl": "https://cdn.bussidseratusmilyar.com/images/6a460d9026206_1782975888.jpg",
+    "downloadUrl": "https://cdn.bussidseratusmilyar.com/mods/6a460d9074c67_1782975888.bussidmod"
+  },
+  {
+    "id": "motor",
+    "name": "CBR Racing 155",
+    "category": "Motor",
+    "creator": "Azumod",
+    "size": "34.6 MB",
+    "imageUrl": "https://cdn.bussidseratusmilyar.com/images/6a476b63dd7b0_1783065443.jpg",
+    "downloadUrl": "https://cdn.bussidseratusmilyar.com/mods/6a476b6445ee0_1783065444.bussidmod"
+  },
+  {
+    "id": "motor",
+    "name": "CBR600 RR New",
+    "category": "Motor",
+    "creator": "Azumod",
+    "size": "34.6 MB",
+    "imageUrl": "https://cdn.bussidseratusmilyar.com/images/6a476c4883d5d_1783065672.jpg",
+    "downloadUrl": "https://cdn.bussidseratusmilyar.com/mods/6a476c490d372_1783065673.bussidvehicle"
   }
 ]
